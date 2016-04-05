@@ -22,3 +22,4 @@ def SumItUp(n, k):
     return sum
 
 print(SumItUp(4,3))
+print(SumItUp(6, 7))
